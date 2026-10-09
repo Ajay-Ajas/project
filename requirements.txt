@@ -7,3 +7,5 @@ joblib
 python-multipart
 Pillow
 opencv-python-headlessspacy
+opencv-python-headless
+spacy
