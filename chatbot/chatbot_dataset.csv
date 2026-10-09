@@ -1,0 +1,271 @@
+text,intent
+What is CivicMind AI?,general_app
+What does this app do?,general_app
+Tell me about CivicMind,general_app
+What is CivicMind used for?,general_app
+How does CivicMind help citizens?,general_app
+What can I do with this application?,general_app
+Explain the CivicMind app,general_app
+What is this civic app?,general_app
+How does CivicMind work?,general_app
+What is the purpose of this app?,general_app
+Why was CivicMind created?,general_app
+What services does CivicMind provide?,general_app
+How can this application help me?,general_app
+What features are available in CivicMind?,general_app
+Tell me what CivicMind can do,general_app
+How do I report a civic issue?,report_complaint
+How can I raise a complaint?,report_complaint
+Where can I submit a complaint?,report_complaint
+I want to report a problem,report_complaint
+How can I register a complaint?,report_complaint
+How do I submit a civic complaint?,report_complaint
+I want to raise an issue,report_complaint
+Where do I report a public problem?,report_complaint
+How can I report an issue?,report_complaint
+I need to make a complaint,report_complaint
+How do I register a civic issue?,report_complaint
+Can I report a problem through the app?,report_complaint
+How can citizens report problems?,report_complaint
+Where can I raise an issue?,report_complaint
+I want to submit a civic report,report_complaint
+How can I check my complaint status?,complaint_status
+Where can I track my complaint?,complaint_status
+What is the status of my complaint?,complaint_status
+How do I track my report?,complaint_status
+Can I see my complaint progress?,complaint_status
+Where is my complaint?,complaint_status
+How can I check the progress of my complaint?,complaint_status
+Can I track an issue I reported?,complaint_status
+Show me my complaint status,complaint_status
+How do I know whether my complaint is resolved?,complaint_status
+Can I see the progress of my report?,complaint_status
+How do I check an existing complaint?,complaint_status
+Where can I see my submitted complaints?,complaint_status
+What happened to my complaint?,complaint_status
+How can I follow up on my complaint?,complaint_status
+How do I report a pothole?,road_damage
+There is road damage,road_damage
+I found a pothole,road_damage
+How can I report a damaged road?,road_damage
+There is a large pothole near my house,road_damage
+Where do I report road damage?,road_damage
+The road is damaged,road_damage
+How can I complain about potholes?,road_damage
+There is a broken road,road_damage
+I want to report a pothole,road_damage
+The road near my college is damaged,road_damage
+How do I report road problems?,road_damage
+There are many potholes here,road_damage
+Can I report damaged roads?,road_damage
+I found a dangerous pothole,road_damage
+How do I report garbage?,garbage
+There is garbage on the road,garbage
+Where can I report waste?,garbage
+There is too much garbage here,garbage
+How can I report a garbage problem?,garbage
+I found illegal dumping,garbage
+There is waste near my house,garbage
+How do I complain about garbage?,garbage
+Garbage has not been collected,garbage
+Where do I report dumped waste?,garbage
+There is trash on the street,garbage
+How can I report a waste problem?,garbage
+Garbage is lying near my area,garbage
+Can I report illegal dumping?,garbage
+There is a sanitation problem,garbage
+How do I report a broken street light?,streetlight
+The street light is not working,streetlight
+There is a damaged streetlight,streetlight
+Where can I report a street light problem?,streetlight
+The light on my street is broken,streetlight
+How can I report a streetlight?,streetlight
+There is no street light working,streetlight
+My streetlight is not functioning,streetlight
+How do I complain about a broken light?,streetlight
+There is a problem with the street light,streetlight
+The road is dark because the streetlight is broken,streetlight
+Can I report a street light issue?,streetlight
+Street lights are not working,streetlight
+Where do I report a faulty streetlight?,streetlight
+The street light needs repair,streetlight
+How do I report water pollution?,water_pollution
+The water looks polluted,water_pollution
+There is contaminated water,water_pollution
+Where can I report water pollution?,water_pollution
+How can I report a water quality problem?,water_pollution
+There is dirty water in my area,water_pollution
+The water is contaminated,water_pollution
+How do I complain about polluted water?,water_pollution
+I found polluted water,water_pollution
+Can I report water contamination?,water_pollution
+There is a water pollution issue,water_pollution
+How can I report dirty water?,water_pollution
+The water near my area is polluted,water_pollution
+Where do I report contaminated water?,water_pollution
+I want to report a water pollution problem,water_pollution
+How do I report a fallen tree?,fallen_tree
+A tree has fallen on the road,fallen_tree
+There is a fallen tree,fallen_tree
+Where can I report a fallen tree?,fallen_tree
+A tree is blocking the road,fallen_tree
+How can I report a fallen tree?,fallen_tree
+There is a tree blocking traffic,fallen_tree
+A tree has fallen near my house,fallen_tree
+How do I complain about a fallen tree?,fallen_tree
+Can I report a fallen tree?,fallen_tree
+There is a dangerous fallen tree,fallen_tree
+A tree fell after the storm,fallen_tree
+Where do I report a tree blocking the road?,fallen_tree
+The fallen tree is causing a problem,fallen_tree
+I need to report a fallen tree urgently,fallen_tree
+Why does the app need my location?,location_help
+Why do I need to provide location?,location_help
+How does location help my complaint?,location_help
+Why should I attach my location?,location_help
+What is location used for?,location_help
+Does my complaint need location?,location_help
+Why is GPS required?,location_help
+How does GPS help?,location_help
+Why should I enable location?,location_help
+What happens if I provide my location?,location_help
+Why does CivicMind use my location?,location_help
+Is location important for reporting?,location_help
+How does location help officials?,location_help
+Why should I share the issue location?,location_help
+Do I need location to submit an issue?,location_help
+Why should I upload an image?,image_help
+Why do I need to attach a photo?,image_help
+How does the image help?,image_help
+Why does CivicMind need a picture?,image_help
+Can I upload an image with my complaint?,image_help
+What is the purpose of the complaint image?,image_help
+Why should I provide photo evidence?,image_help
+How does AI use my image?,image_help
+Why is image evidence useful?,image_help
+Can I report an issue with a photo?,image_help
+What does the AI do with the image?,image_help
+Why should I take a picture of the problem?,image_help
+Is an image required?,image_help
+How does image detection work?,image_help
+Why should I attach evidence?,image_help
+What does the AI detect?,ai_detection
+How does the AI identify civic problems?,ai_detection
+What can YOLO detect?,ai_detection
+How does image detection work?,ai_detection
+Which problems can the AI detect?,ai_detection
+Can AI detect road damage?,ai_detection
+Can AI detect garbage?,ai_detection
+Can AI detect fallen trees?,ai_detection
+Can AI detect street lights?,ai_detection
+Can AI detect water pollution?,ai_detection
+What is YOLO used for?,ai_detection
+How does CivicMind AI analyze images?,ai_detection
+What happens after I upload an image?,ai_detection
+How does the computer vision system work?,ai_detection
+What civic issues can be detected?,ai_detection
+How does CivicMind decide priority?,priority
+How is complaint priority calculated?,priority
+Why is my complaint high priority?,priority
+What determines complaint priority?,priority
+How does the priority system work?,priority
+What is complaint severity?,priority
+How does AI prioritize complaints?,priority
+Why was this complaint marked high?,priority
+What factors affect priority?,priority
+How are urgent complaints identified?,priority
+Can AI determine complaint priority?,priority
+What makes an issue high priority?,priority
+How does CivicMind classify priority?,priority
+What does high priority mean?,priority
+What does low priority mean?,priority
+Which department handles my complaint?,department
+Who will receive my complaint?,department
+Where is my complaint routed?,department
+Which department handles road damage?,department
+Who handles garbage complaints?,department
+Which department handles street lights?,department
+Who handles water pollution?,department
+Who handles fallen trees?,department
+How does department routing work?,department
+Where will my complaint be sent?,department
+How does CivicMind choose a department?,department
+Who is responsible for my civic issue?,department
+Which authority receives the complaint?,department
+Can the app suggest the responsible department?,department
+Why was my complaint assigned to this department?,department
+What is the public feed?,public_feed
+How does the public feed work?,public_feed
+Can I see other complaints?,public_feed
+Where can I see community complaints?,public_feed
+What can I find in the public feed?,public_feed
+Can citizens view reported issues?,public_feed
+How do I view public complaints?,public_feed
+What is shown in the community feed?,public_feed
+Can I see issues reported by others?,public_feed
+How can I access the public feed?,public_feed
+What does the community section do?,public_feed
+Can I view civic issues near me?,public_feed
+Why is there a public feed?,public_feed
+How does community visibility work?,public_feed
+Where can I see reported civic issues?,public_feed
+What does an upvote do?,upvote
+How do I upvote a complaint?,upvote
+Why can I upvote an issue?,upvote
+What is the purpose of upvotes?,upvote
+Can I support another complaint?,upvote
+How does community voting work?,upvote
+Can citizens upvote issues?,upvote
+Why should I upvote a complaint?,upvote
+What happens when an issue gets many upvotes?,upvote
+How do community upvotes work?,upvote
+Can I vote for a civic issue?,upvote
+What is community support?,upvote
+How do I support a reported issue?,upvote
+Can I upvote public complaints?,upvote
+Why are upvotes shown?,upvote
+What does Pending Review mean?,status_meaning
+What does Submitted mean?,status_meaning
+What does In Progress mean?,status_meaning
+What does Resolved mean?,status_meaning
+What are the complaint statuses?,status_meaning
+Explain the complaint status,status_meaning
+What happens during pending review?,status_meaning
+What does resolved mean?,status_meaning
+What happens after submission?,status_meaning
+What does in progress mean?,status_meaning
+Why is my complaint pending?,status_meaning
+What does complaint verification mean?,status_meaning
+How does the complaint status change?,status_meaning
+What happens when an official reviews it?,status_meaning
+Explain the status timeline,status_meaning
+Is my complaint private?,privacy
+Can I make a private complaint?,privacy
+Who can see my complaint?,privacy
+Is my information protected?,privacy
+What happens to my complaint data?,privacy
+Can other users see my complaint?,privacy
+How does complaint privacy work?,privacy
+Is my personal information visible?,privacy
+Can I submit a private report?,privacy
+What information is shared publicly?,privacy
+Is my complaint information secure?,privacy
+Who can access my complaint?,privacy
+Can I choose public or private?,privacy
+How does privacy work in CivicMind?,privacy
+Is my location visible to everyone?,privacy
+What can you help me with?,chatbot_help
+What can you do?,chatbot_help
+How can you help me?,chatbot_help
+What questions can I ask?,chatbot_help
+Can you help me report an issue?,chatbot_help
+Can you help with complaints?,chatbot_help
+What are your functions?,chatbot_help
+What can I ask CivicMind AI?,chatbot_help
+How does the chatbot help?,chatbot_help
+Can you guide me through the app?,chatbot_help
+I need help using the app,chatbot_help
+Help me use CivicMind,chatbot_help
+Can you explain the app?,chatbot_help
+What services can you guide me with?,chatbot_help
+I need assistance,chatbot_help
