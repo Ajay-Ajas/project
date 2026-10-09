@@ -6,4 +6,4 @@ scikit-learn
 joblib
 python-multipart
 Pillow
-opencv-python-headless
+opencv-python-headlessspacy
